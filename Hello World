@@ -1,1 +1,5 @@
+#Ejemplo Hola Mundo.
 print("¡Hola, Mundo!")
+
+#Ejemplo Hola Mundo con salto de línea.
+print("¡Hola\nMundo!")
