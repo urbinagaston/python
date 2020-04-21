@@ -4,6 +4,8 @@ print("¡Hola, Mundo!")
 #Ejemplo Hola Mundo con salto de línea.
 print("¡Hola\nMundo!")
 
-
 #Ejemplo Hola Mundo con barra.
 print("¡Hola \\ Mundo!")
+
+#Ejemplo print con varios argumentos.
+print("Practicando","con","python")
