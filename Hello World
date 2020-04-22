@@ -12,3 +12,7 @@ print("Practicando","con","python")
 
 #Ejemplo print con varios argumentos.
 print("Practicando","con","python")
+
+#Ejemplo print con end.
+print("Mi nombre es", "Python.", end=" ")
+print("Monty Python.")
