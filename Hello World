@@ -16,3 +16,7 @@ print("Practicando","con","python")
 #Ejemplo print con end.
 print("Mi nombre es", "Python.", end=" ")
 print("Monty Python.")
+
+#Ejemplo sep & end
+print("Mi", "nombre", "es", sep="_", end="*")
+print("Monty", "Python.", sep="*", end="*\n")
