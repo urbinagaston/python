@@ -5,3 +5,6 @@ print ("Esta es una cadena")
 print ("Me gusta \"Python\"")
 print ('Me gusta "Python"')
 print ("I\'m Monty Python")
+
+#True or false
+print(True > False)
