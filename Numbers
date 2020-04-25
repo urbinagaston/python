@@ -2,6 +2,9 @@
 print ("2")
 print (2)
 
+#Decimal
+print (2.5)
+
 #Octal
 print (0o123)
 
