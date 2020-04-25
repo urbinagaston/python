@@ -1,0 +1,6 @@
+#Literales
+print ("2")
+print (2)
+
+#Octal
+print (0o123)
